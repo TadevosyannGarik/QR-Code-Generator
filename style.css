@@ -8,6 +8,7 @@
     box-sizing: border-box;
     text-size-adjust: none;
     -webkit-text-size-adjust: none;
+    border-radius: 10px;
 }
 
 button:hover {
@@ -126,6 +127,7 @@ body .qr-code-container {
     body .qr-code-container {
         width: 100%;
         margin: 8rem 0;
+        
     }
 }
 
@@ -138,6 +140,7 @@ body .qr-code-container .qr-code {
     justify-content: space-between;
     padding: 2rem;
     width: 350px;
+    
 }
 
 body .qr-code-container .qr-code button {
